@@ -13,7 +13,7 @@ Este script limpia, transforma y combina los archivo de datos de la estación me
 
 Última corrida: `r lubridate::now()`
 
-Lectura de datos
+Lectura de datos todos
 
 ```{r data_read}
 library(lubridate)
